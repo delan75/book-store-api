@@ -20,8 +20,8 @@ A robust RESTful API built with Django and Django REST Framework (DRF) for manag
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BookStore.git
-   cd BookStore
+   git clone https://github.com/delan75/book-store-api.git
+   cd book-store-api
    ```
 
 2. **Create and activate a virtual environment**:
